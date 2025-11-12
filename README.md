@@ -46,7 +46,7 @@ A Client Secret is automatically generated and exported to C:\temp\AppRegistrati
 
 ### Step 2: Granting Admin Consent:
 
-The script attempts to grant consent, but you should verify it in the Entra portal.
+You now to accept admin consent within the Entra Portal.
 
 Navigate to Entra ID [https://entra.microsoft.com].
 
