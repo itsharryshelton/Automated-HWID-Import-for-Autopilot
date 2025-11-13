@@ -1,7 +1,3 @@
-$TenantId = "UpdateMe"
-$AppId = "UpdateMe"
-$AppSecret = "UpdateMe"
-
 function Get-WindowsAutoPilotInfo
 {
     [CmdletBinding(DefaultParameterSetName = 'Default')]
@@ -352,6 +348,10 @@ If (-not (Get-InstalledModule PowerShellGet -ErrorAction silentlycontinue))
 }
     
 Set-ExecutionPolicy -Scope Process -ExecutionPolicy RemoteSigned -Force
+#Edit Me!    
+$TenantId = "UpdateMe"
+$AppId = "UpdateMe"
+$AppSecret = "UpdateMe"
     
 try
 {
