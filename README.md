@@ -78,7 +78,7 @@ This is the script you will deploy to your target devices.
 
 Open the `Autopilot HWID Ingestion - Template.ps1` script in a code editor.
 
-Update lines 1, 2, and 3 with the Tenant ID, App ID, and App Secret (the Secret's Value) you just collected.
+Update lines 352, 353, and 354 with the Tenant ID, App ID, and App Secret (the Secret's Value) you just collected.
 
 Save this configured script.
 
