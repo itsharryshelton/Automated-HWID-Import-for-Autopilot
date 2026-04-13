@@ -2,7 +2,7 @@
 #Script Name: HWID API Creation Tool
 #Script Version: V1.2
 
-#\\ If you get any errors on the script, run the below command as an admin to update or reinstall your Graph module //
+#If you get any errors on the script, run the below command as an admin to update or reinstall your Graph module
 #Install-Module Microsoft.Graph -Scope CurrentUser
 
 #1 - Connect to Microsoft Graph with necessary permissions
